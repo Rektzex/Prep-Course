@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: #1d84bc;
+    padding: 50px;
+    border-color: purple;
+    border-width: 5px;
+    border-style: dotted;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
